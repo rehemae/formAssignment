@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:wght@100&display=swap');
+
+  body{ 
+    background-image: linear-gradient(to right, rgb(175,133,53), rgb(238, 182, 238))
+}
+.box{
+  background-color: white;
+  height: 600px;
+  width: 900px;
+  margin-top: 6%;
+  display: flex;
+  margin-left: 15%;
+  border-radius: 5px;
+}
+.box1{
+  background-color: rgb(175,133,53);
+  width: 400px
+  
+  
+}
+.box2{
+  padding: 20px;
+}
+.jojo{
+  display: flex;
+}
+label{
+  font-size: 20px;
+}
+input{
+  font-size: 20px;
+}
+.fname{
+  padding: 10px;
+}
+.uname{
+  padding: 10px;
+}
+.signupbtn{
+  padding: 15px;
+  background-color: rgb(207, 79, 101);
+  color: white;
+  border: none;
+  border-radius: 5px;
+
+
+}
+.signup{
+  background-color: blue;
+  padding: 15px;
+  border-radius: 5px;
+ 
+  border: none;
+}
+.box1 h1{
+  margin-left: 10%;
+  font-size: small;
+  font-family: 'Pacifico', cursive;
+
+}
+.box1 h2{
+margin-left: 10%;
+}
+.box1 h3{
+  margin-left: 10%;
+ margin-top: 30%;
+ 
+}
+.box1 img{
+  margin-top: 20%;
+}
